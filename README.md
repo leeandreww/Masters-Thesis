@@ -9,7 +9,7 @@ This repository contains Python scripts used to audit bias, evaluate model perfo
 - Trains and evaluates three model families:
   - Neural Network
   - Random Forest
-  - Gradient Boosting (named XGB in scripts)
+  - XGBoost
 - Compares baseline vs mitigation approaches:
   - Re-weighting
   - Group-specific threshold adjustment
