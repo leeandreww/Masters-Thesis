@@ -94,5 +94,5 @@ Run from the project root directory:
 
 ## Outputs
 
-- Bias and performance CSV files are written into each script folder.
+- CSV files are written into each script folder.
 
