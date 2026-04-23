@@ -64,14 +64,21 @@ Main Python libraries used:
 
 1. Clone the repository.
 2. Create and activate a virtual environment.
-3. Install dependencies.
+3. Install dependencies from requirements.txt.
 
 Suggested commands on macOS/Linux:
 
     python3 -m venv .venv
     source .venv/bin/activate
     pip install --upgrade pip
-    pip install pandas numpy scikit-learn aif360 shap matplotlib joblib
+  pip install -r requirements.txt
+
+Suggested commands on Windows (PowerShell):
+
+  py -m venv .venv
+  .venv\Scripts\Activate.ps1
+  python -m pip install --upgrade pip
+  pip install -r requirements.txt
 
 ## Recommended Run Order
 
