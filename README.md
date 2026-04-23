@@ -42,10 +42,7 @@ This repository contains Python scripts used to audit bias, evaluate model perfo
 - rf_importance/
   - rf_importance.py
   - rf_feature_importance.png
-- models/
-  - Saved model artifacts created/used by shap_analysis.py
-- outputs/
-  - Consolidated result tables
+
 
 ## Requirements
 
