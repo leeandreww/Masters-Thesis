@@ -1,0 +1,11 @@
+Rank,Feature,Baseline Mean|SHAP|,Re-weighted Mean|SHAP|,Δ Change,Rank (Base),Rank (Re-wt)
+1,RecruitmentStrategy,0.2233,0.2153,-0.008,1,1
+2,EducationLevel,0.0761,0.0754,-0.0007,2,2
+3,InterviewScore,0.071,0.0701,-0.0009,3,3
+4,PersonalityScore,0.0705,0.0673,-0.0032,4,5
+5,SkillScore,0.0696,0.0694,-0.0001,5,4
+6,ExperienceYears,0.0549,0.0549,0.0,6,6
+7,DistanceFromCompany,0.0102,0.0096,-0.0006,7,7
+8,Age,0.0097,0.0085,-0.0012,8,8
+9,PreviousCompanies,0.0095,0.0081,-0.0014,9,9
+10,Gender,0.0033,0.0022,-0.0012,10,10
