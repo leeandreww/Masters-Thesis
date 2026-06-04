@@ -1,0 +1,27 @@
+Section,Rank,Feature,Coefficient,Target,Direction
+COEFFICIENTS: GENDER MODEL,,,,,
+Gender_Coefficients,1,PreviousCompanies,-0.123958,Gender,Male (0)
+Gender_Coefficients,2,ExperienceYears,-0.057062,Gender,Male (0)
+Gender_Coefficients,3,InterviewScore,-0.044109,Gender,Male (0)
+Gender_Coefficients,4,RecruitmentStrategy,-0.044061,Gender,Male (0)
+Gender_Coefficients,5,PersonalityScore,0.043854,Gender,Female (1)
+Gender_Coefficients,6,SkillScore,0.029708,Gender,Female (1)
+Gender_Coefficients,7,EducationLevel,0.019016,Gender,Female (1)
+Gender_Coefficients,8,DistanceFromCompany,0.008019,Gender,Female (1)
+,,,,,
+COEFFICIENTS: AGE MODEL,,,,,
+Age_Coefficients,1,EducationLevel,0.082587,Age,Old (1)
+Age_Coefficients,2,ExperienceYears,0.071834,Age,Old (1)
+Age_Coefficients,3,PersonalityScore,0.071559,Age,Old (1)
+Age_Coefficients,4,RecruitmentStrategy,0.070867,Age,Old (1)
+Age_Coefficients,5,DistanceFromCompany,-0.05739,Age,Young (0)
+Age_Coefficients,6,PreviousCompanies,-0.046826,Age,Young (0)
+Age_Coefficients,7,SkillScore,-0.03322,Age,Young (0)
+Age_Coefficients,8,InterviewScore,-0.025104,Age,Young (0)
+,,,,,
+MODEL FIT SUMMARY,,,,,
+Model_Fit,,Cross_Validated_ROC_AUC,,0.5063,0.5011
+Model_Fit,,Majority_Class_Baseline,,0.508,0.5273
+Model_Fit,,McFadden_R2,,0.0046,0.0054
+Model_Fit,,Neutral_Features_Used,,8.0,8.0
+Model_Fit,,Observations_n,,1500.0,1500.0
