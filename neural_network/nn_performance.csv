@@ -1,4 +1,0 @@
-Variant,acc,prec,rec,f1
-Baseline,0.85,0.8,0.6882,0.7399
-Re-weighted,0.8467,0.7975,0.6774,0.7326
-Threshold Adj.,0.8567,0.766,0.7742,0.7701
