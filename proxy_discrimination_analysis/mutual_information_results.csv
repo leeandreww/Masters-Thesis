@@ -1,9 +1,0 @@
-Rank,Feature,MI_Gender_Mean,MI_Gender_Std,MI_Age_Mean,MI_Age_Std
-1,PreviousCompanies,0.020027,0.006666,0.003685,0.004377
-2,ExperienceYears,0.009398,0.012546,0.001653,0.002061
-3,SkillScore,0.008744,0.011499,1.7e-05,3.4e-05
-4,RecruitmentStrategy,0.006,0.011093,0.004882,0.007462
-5,EducationLevel,0.004444,0.002438,0.008604,0.008091
-6,InterviewScore,0.003538,0.004405,0.005057,0.009214
-7,DistanceFromCompany,0.0,0.0,0.004108,0.0
-8,PersonalityScore,0.0,0.0,0.001623,0.002159
